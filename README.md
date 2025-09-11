@@ -1,1 +1,1 @@
-The HTML page is reated for training only
+The HTML page is created for training only
